@@ -1,0 +1,20 @@
+body {
+  margin: auto;
+  max-width: 80ch;
+}
+main {
+  max-width: 60ch;
+  display: inline-block;
+  vertical-align: text-top;
+}
+header {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+nav {
+  width: 18ch;
+  display: inline-block;
+  vertical-align: text-top;
+}
