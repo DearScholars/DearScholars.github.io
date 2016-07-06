@@ -18,3 +18,18 @@ nav {
   display: inline-block;
   vertical-align: text-top;
 }
+figure {
+text-align: center;
+}
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+main h1, main h2 {
+  text-align: center;
+}
+
+iframe {
+  max-width: 100%;
+}
