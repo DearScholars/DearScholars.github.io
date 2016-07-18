@@ -1,6 +1,6 @@
 # DearScholars.github.io
 
-This repository holds the source code to the websites <www.DearScholars.org>.
+This repository holds the source code to the websites <http://www.dearscholars.org/>.
 
 - [Modifying the Website](#modifying-the-website)
   - [Files](#files)
@@ -55,7 +55,7 @@ layout: default
 
 To edit a page:
 
-1. Edit the `pageName.md` file.
+1. Edit the `pageName.md` file. (The pages are written in [Markdown](#markdown).)
 
 To remove a page:
 
