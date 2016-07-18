@@ -5,8 +5,6 @@ layout: default
 
 ## The Last Lecture (Randy Pausch)
 
-![The Last Lecture](img/book_TheLastLecture.jpg)
-
 A lot of professors give talks titled "The Last Lecture."
 Professors are asked to consider their demise and to ruminate on what matters most to them.
 And while they speak, audiences can't help but mull the same question: What wisdom would we impart to the world if we knew it was our last chance?
@@ -19,8 +17,6 @@ It was a summation of everything Randy had come to believe.
 It was about living.
 
 ## How to Win Friends and Influence People (Dale Carnegie)
-
-![How to Win Friends](img/book_HowToWinFriendsAndInfluencePeople.jpg)
 
 You can go after the job you want...and get it!
 You can take the job you have...and improve it!
@@ -43,8 +39,6 @@ At the heart of this book is the example of a life based on hope, and on an unde
 
 ## Warriors Don't Cry (Melba Patillo)
 
-![Warrios Don't Cry](img/book_WarriorsDontCry.jpg)
-
 In 1957, Melba Pattillo turned sixteen.
 That was also the year she became a warrior on the front lines of a civil rights firestorm.
 Following the landmark 1954 Supreme Court ruling, Brown v. Board of Education, Melba was one of nine teenagers chosen to integrate Little Rock's Central High School.
@@ -54,16 +48,12 @@ But through it all, she acted with dignity and courage, and refused to back down
 
 ## Americanah (Chimamanda Ngozi Adichie)
 
-![Americanah](img/book_Americanah.jpg)
-
 Ifemelu and Obinze are young and in love when they depart military-ruled Nigeria for the West.
 Beautiful, self-assured Ifemelu heads for America, where despite her academic success, she is forced to grapple with what it means to be black for the first time.
 Quiet, thoughtful Obinze had hoped to join her, but with post-9/11 America closed to him, he instead plunges into a dangerous, undocumented life in London.
 Fifteen years later, they reunite in a newly democratic Nigeria, and reignite their passion—for each other and for their homeland.
 
 ## And There Was Light (Jacques Lusseyran)
-
-![And There Was Light](img/book_AndThereWasLight.jpg)
 
 When Jacques Lusseyran was an eight-year-old Parisian schoolboy, he was blinded in an accident.
 He finished his schooling determined to participate in the world around him.
